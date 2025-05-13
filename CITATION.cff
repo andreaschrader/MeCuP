@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use content of this repository, please cite it using these metadata and visit the README to learn how the reference was used as an instruction in this repository. A reference of a planned publication with the Hildebrand lab will be added here once the citation informations are available as the content of this repository was created in the respective project with the Hildebrand lab in the frame of CEPLAS at the University of Cologne and not only the repo but also, upon publication, the manuscript should be cited."
+repository: "https://github.com/andreaschrader/MeCuP"
+authors:
+  - affiliation: Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany
+    alias: andreaschrader
+    city: Cologne
+    country: DE
+    family-names: Schrader
+    given-names: Andrea
+    orcid: "https://orcid.org/0000-0002-3879-7057"
+date-released: "2025-05-12"
+identifiers:
+  - description: "MeCuP repo - to be extendned e.g. for zenodo"
+    type: 
+    value: 
+keywords:
+  - thermal protein profiling
+license: CC-BY-4.0
+title: andreaschrader/MeCuP
+version: 0.2.3
+references:
