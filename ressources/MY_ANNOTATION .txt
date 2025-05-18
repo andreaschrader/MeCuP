@@ -1,0 +1,11 @@
+AGI	TAIR_TH
+ATXGXXXX1.X	My Anntotation 1
+ATXGXXXX2.X	My Anntotation 2
+ATXGXXXX3.X	My Anntotation 3
+ATXGXXXX4.X	My Anntotation 4
+ATXGXXXX5.X	My Anntotation 5
+ATXGXXXX6.X	My Anntotation 6
+ATXGXXXX7.X	My Anntotation 7
+ATXGXXXX8.X	My Anntotation 8
+ATXGXXXX9.X	My Anntotation 9
+ATXGXXX10.X	My Anntotation 10
