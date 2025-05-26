@@ -6,15 +6,15 @@ authors:
     alias: andreaschrader
     city: Cologne
     country: DE
-    family-names: Schrader
-    given-names: Andrea
+    family-names: "Schrader"
+    given-names: "Andrea"
     orcid: "https://orcid.org/0000-0002-3879-7057"
   - affiliation: Institute for Plant Sciences, Abteilung Pflanzenstoffwechselbiochemie & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany
     alias: Flameon96
     city Cologne
     country: DE
-    family-names: Heinemann
-    given-names: Björn
+    family-names: "Heinemann"
+    given-names: "Björn"
     orcid: "https://orcid.org/0000-0002-3962-4174"
 date-released: "2025-05-12"
 identifiers:
@@ -24,6 +24,6 @@ identifiers:
 keywords:
   - thermal protein profiling
 license: CC-BY-4.0
-title: andreaschrader/MeCuP
+title: "andreaschrader/MeCuP"
 version: 0.2.3
 references:
