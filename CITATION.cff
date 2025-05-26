@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use content of this repository, please cite it using these metadata and visit the README to learn how the reference was used as an instruction in this repository. A reference of a planned publication with the Hildebrand lab will be added here once the citation informations are available as the content of this repository was created in the respective project with the Hildebrand lab in the frame of CEPLAS at the University of Cologne and not only the repo but also, upon publication, the manuscript should be cited."
+message: "If you use content of this repository, please cite it using these metadata and visit the README to learn about the manuscript for which it developed and used. A reference of a planned publication with the Hildebrand lab will be added here once the citation informations are available. The content of this repository was created in the respective project with the Hildebrand lab in the frame of CEPLAS at the University of Cologne and not only the repo but also, upon publication, the manuscript should be cited."
 authors:
   - family-names: "Schrader"
     given-names: "Andrea"
@@ -7,7 +7,7 @@ authors:
   - family-names: "Heinemann"
     given-names: "Björn"
     orcid: "https://orcid.org/0000-0002-3962-4174"
-title: "MeCuP"
+title: "MeCuP - part of the manuscript: 'Thermal proteome profiling identifies mitochondrial aminotransferases involved in cysteine degradation via persulfides in plants'"
 version: 0.2.3
 license: CC-BY-4.0
 date-released: 2025-05-23
