@@ -9,6 +9,13 @@ authors:
     family-names: Schrader
     given-names: Andrea
     orcid: "https://orcid.org/0000-0002-3879-7057"
+  - affiliation: Institut für Pflanzenwissenschaften, Abteilung Pflanzenstoffwechselbiochemie & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany
+    alias: flameon96
+    city Cologne
+    country: DE
+    family-names: Heinemann
+    given-names: Björn
+    orcid: "https://orcid.org/0000-0002-3962-4174"
 date-released: "2025-05-12"
 identifiers:
   - description: "MeCuP repo - to be extendned e.g. for zenodo"
