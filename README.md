@@ -4,7 +4,7 @@
 
 ## 👋 This is MeCuP
 
-MeCuP = **Me**lting **Cu**rve **P**rofile tool for thermal protein profiling - a tool supporting screening and identifiyning candidates in thermal proteome profiling experiments.
+MeCuP (**Me**lting **Cu**rve **P**rofiler) is a tool for thermal protein profiling - it supports screening and identifiyning candidates in thermal proteome profiling experiments.
 Please visit this [Excel file](./ressources/MeCuP_Arguments_EXPLAINED.xlsx) as a one stop for instructions on how to use MeCuP, explanations about possible arguments to pass by filling a csv template when using MeCuP.
 
 Please ensure when filling the csv template that there are no changes due to formatting some entries to dates!
