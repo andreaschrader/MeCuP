@@ -12,7 +12,7 @@ Please ensure when filling the csv template that there are no changes due to for
 MeCuP was developed in a way that it can sit in and is functional in an ARC (Annotated Research Context). It was initially developed in and to be usable in the DataPLANT [PLANTdataHUB](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.16474). The ARC provides a data management solution developed by DataPLANT the NFDI4Plants (NFDI = National Research Data Infrastructure). For underlying schemata, metadata annotation and making use of many other features and benefits of an ARC, please visit the [DataPLANT website](https://www.nfdi4plants.org/).
 
 ## MeCuP v0.2.3
-This repository contains the [MeCuP scripts](./workflows/README.md) and a minimalistic directory structure and explanations for all required files from the use of the MeCuP script. Data and an example for the use of MeCuP will be available with the associated submitted manuscript (see citation below in this README).  
+This repository contains the [MeCuP scripts](./workflows/README.md) and a minimalistic directory structure and explanations for all required files for the use of the MeCuP script. Data and an example for the use of MeCuP will be available with the associated submitted manuscript (see citation below in this README).  
 
 It comprises the default settings with low resolution plots for MeCuP when using R with RStudio and the **option "1"** in the respective RStudio prompt. These settings are minimalistic and suggested for routine screening application.  
 
