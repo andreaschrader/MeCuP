@@ -41,8 +41,9 @@ MeCup was primarily developed by
 - Björn Heinemann  
   orcid: "https://orcid.org/0000-0002-3962-4174"  
   Universität zu Köln  
-  Abteilung Pflanzenstoffwechselbiochemie  
-  Institut für Pflanzenwissenschaften  
+  Institute for Plant Sciences    
+  Plant Metabolic Biochemistry Lab  
+  Center of Molecular Biosciences   
   Zülpicher Straße 47a  
   D-50674 Köln  
 
