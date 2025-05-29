@@ -730,9 +730,7 @@ MeCuP__extractArgumentsFromInput <- function(ARGUMENTS_INPUT, ARGUMENTS) {
   # Input is the user selected option for reading in the arguments 
   # and the arguments dataframe read in from the respectively selected source.
   ##### begin of function 'MeCuP_exclude_prot'
-  
-  # TODO: add tests ensuring that there is a value for each argument matching the options or range for the respective argument
-  
+    
   ## READ
   TYPE <- ARGUMENTS[ARGUMENTS$Parameter == "TYPE", ]$SelectedArgument
   ASSAY <- ARGUMENTS[ARGUMENTS$Parameter == "ASSAY", ]$SelectedArgument
@@ -1060,9 +1058,7 @@ MeCuP__getPackagesAndWd <- function(){
   # Load packages into session 
   requirementsMatched <- lapply(requirements, require, character.only=TRUE)
   install.packages(requirements[!unlist(requirementsMatched)], dependencies = TRUE)
-  
-  ## TODO: If run from the command line: it might be required to replace rstudioapi functions.
-  
+    
   ################################################################################
   ############################  Setting the Path  ################################
   ################################################################################
@@ -1177,7 +1173,7 @@ MeCuP_writeSession <- function(PATH, used_time) {
 ################################################################################################################################################################################################################################################################################################################################
 
 MeCuP_writeXlsx <- function (PATH, XLSX_OUTPUT_LEGEND, SAM, PLOT, SELECTEDPROTEINSARGUMENT) {
-  ##### build a MeCuP outout xlsx file comprising TOC&legend (optional), results, excluded protein information, sample list, BSA content information and the selected input arguments (TODO)
+  ##### build a MeCuP outout xlsx file comprising TOC&legend (optional), results, excluded protein information, sample list, BSA content information and the selected input arguments
   # Parameters:
   # - PATH: the path for the current MeCuP run output
   # - LEGEND: the selection if the legend should be included in the ouput xlsx file
