@@ -71,3 +71,9 @@ references:
     url: "https://doi.org/10.5281/zenodo.8302662"
     version: v1.1-rfc   
     year: 2023
+  - authors:
+      - family-name: Chang  
+        given-name: Winston
+    title: "Cookbook for R"
+    type: ebook
+    url: "http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#a-colorblind-friendly-palette"
