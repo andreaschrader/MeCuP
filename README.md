@@ -11,7 +11,7 @@ Please ensure when filling the csv template that there are no changes due to for
 
 MeCuP was developed in a way that it can sit in and is functional in an ARC (Annotated Research Context). It was initially developed in and to be usable in the DataPLANT [PLANTdataHUB](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.16474). The ARC provides a data management solution developed by DataPLANT the NFDI4Plants (NFDI = National Research Data Infrastructure). For underlying schemata, metadata annotation and making use of many other features and benefits of an ARC, please visit the [DataPLANT website](https://www.nfdi4plants.org/).
 
-Please note, the requirements and citations_for_R_RStudio_requirements file would not sit at the base of an ARC and is only aded here to visibly outline the packages and work of others used for the MeCuP script.
+Please note, the CITATION.cff, requirements.txt and citations_for_R_RStudio_requirements.txt files would not regularly sit at the base of an ARC.
 
 ## MeCuP v0.2.3
 This repository contains the [MeCuP scripts](./workflows/README.md) and a minimalistic directory structure and explanations for all required files for the use of the MeCuP script. Data and an example for the use of MeCuP will be available with the associated submitted manuscript (see citation below in this README).  
