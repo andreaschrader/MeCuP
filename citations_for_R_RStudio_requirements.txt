@@ -1,0 +1,395 @@
+Citations as provided when executing the respective commands in R:
+
+# base packages
+citation("grid")
+citation("stats")
+citation("graphics")
+citation("grDevices")
+citation("utils")
+citation("datasets")
+citation("methods")
+citation("base")
+#rstudioapi==0.16.0
+#stringr==1.5.1
+#ggplot2==3.5.0
+#gridExtra==2.3
+#openxlsx==4.2.5.2
+#DescTools==0.99.54
+#VennDiagram==1.7.3
+#RColorBrewer==1.1-3
+#dplyr==1.1.4
+#futile.logger==1.4.3
+citation("rstudioapi")
+citation("stringr")
+citation("ggplot2")
+citation("gridExtra")
+citation("openxlsx")
+citation("DescTools")
+citation("VennDiagram")
+citation("RColorBrewer")
+citation("dplyr")
+citation("futile.logger")
+# cite R
+citation()
+# Cite RStudio
+RStudio.Version()
+# Cite RStudio
+RStudio.Version()
+
+
+# Outout:
+  
+> # base packages
+> citation("grid")
+The ‘grid’ package is part of R.  To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> citation("stats")
+The ‘stats’ package is part of R.  To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> citation("graphics")
+The ‘graphics’ package is part of R.  To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> citation("grDevices")
+The ‘grDevices’ package is part of R.  To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> citation("utils")
+The ‘utils’ package is part of R.  To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> citation("datasets")
+The ‘datasets’ package is part of R.  To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> citation("methods")
+The ‘methods’ package is part of R.  To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> citation("base")
+To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> 
+> #rstudioapi==0.16.0  
+> #stringr==1.5.1  
+> #ggplot2==3.5.0
+> #gridExtra==2.3  
+> #openxlsx==4.2.5.2  
+> #DescTools==0.99.54  
+> #VennDiagram==1.7.3  
+> #RColorBrewer==1.1-3  
+> #dplyr==1.1.4  
+> #futile.logger==1.4.3
+> 
+> citation("rstudioapi")
+To cite package ‘rstudioapi’ in publications use:
+
+  Ushey K, Allaire J, Wickham H, Ritchie G (2024). _rstudioapi: Safely Access the RStudio API_. R package version 0.16.0,
+  <https://CRAN.R-project.org/package=rstudioapi>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {rstudioapi: Safely Access the RStudio API},
+    author = {Kevin Ushey and JJ Allaire and Hadley Wickham and Gary Ritchie},
+    year = {2024},
+    note = {R package version 0.16.0},
+    url = {https://CRAN.R-project.org/package=rstudioapi},
+  }
+> citation("stringr")
+To cite package ‘stringr’ in publications use:
+
+  Wickham H (2023). _stringr: Simple, Consistent Wrappers for Common String Operations_. R package version 1.5.1,
+  <https://CRAN.R-project.org/package=stringr>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {stringr: Simple, Consistent Wrappers for Common String Operations},
+    author = {Hadley Wickham},
+    year = {2023},
+    note = {R package version 1.5.1},
+    url = {https://CRAN.R-project.org/package=stringr},
+  }
+> citation("ggplot2")
+To cite ggplot2 in publications, please use
+
+  H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
+
+A BibTeX entry for LaTeX users is
+
+  @Book{,
+    author = {Hadley Wickham},
+    title = {ggplot2: Elegant Graphics for Data Analysis},
+    publisher = {Springer-Verlag New York},
+    year = {2016},
+    isbn = {978-3-319-24277-4},
+    url = {https://ggplot2.tidyverse.org},
+  }
+> citation("gridExtra")
+To cite package ‘gridExtra’ in publications use:
+
+  Auguie B (2017). _gridExtra: Miscellaneous Functions for "Grid" Graphics_. R package version 2.3, <https://CRAN.R-project.org/package=gridExtra>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {gridExtra: Miscellaneous Functions for "Grid" Graphics},
+    author = {Baptiste Auguie},
+    year = {2017},
+    note = {R package version 2.3},
+    url = {https://CRAN.R-project.org/package=gridExtra},
+  }
+> citation("openxlsx")
+To cite package ‘openxlsx’ in publications use:
+
+  Schauberger P, Walker A (2023). _openxlsx: Read, Write and Edit xlsx Files_. R package version 4.2.5.2, <https://CRAN.R-project.org/package=openxlsx>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {openxlsx: Read, Write and Edit xlsx Files},
+    author = {Philipp Schauberger and Alexander Walker},
+    year = {2023},
+    note = {R package version 4.2.5.2},
+    url = {https://CRAN.R-project.org/package=openxlsx},
+  }
+> citation("DescTools")
+To cite package ‘DescTools’ in publications use:
+
+  Signorell A (2024). _DescTools: Tools for Descriptive Statistics_. R package version 0.99.54, <https://CRAN.R-project.org/package=DescTools>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {DescTools: Tools for Descriptive Statistics},
+    author = {Andri Signorell},
+    year = {2024},
+    note = {R package version 0.99.54},
+    url = {https://CRAN.R-project.org/package=DescTools},
+  }
+> citation("VennDiagram")
+To cite package ‘VennDiagram’ in publications use:
+
+  Chen H (2022). _VennDiagram: Generate High-Resolution Venn and Euler Plots_. R package version 1.7.3, <https://CRAN.R-project.org/package=VennDiagram>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {VennDiagram: Generate High-Resolution Venn and Euler Plots},
+    author = {Hanbo Chen},
+    year = {2022},
+    note = {R package version 1.7.3},
+    url = {https://CRAN.R-project.org/package=VennDiagram},
+  }
+
+ATTENTION: This citation information has been auto-generated from the package DESCRIPTION file and may need manual editing, see ‘help("citation")’.
+> citation("RColorBrewer")
+To cite package ‘RColorBrewer’ in publications use:
+
+  Neuwirth E (2022). _RColorBrewer: ColorBrewer Palettes_. R package version 1.1-3, <https://CRAN.R-project.org/package=RColorBrewer>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {RColorBrewer: ColorBrewer Palettes},
+    author = {Erich Neuwirth},
+    year = {2022},
+    note = {R package version 1.1-3},
+    url = {https://CRAN.R-project.org/package=RColorBrewer},
+  }
+> citation("dplyr")
+To cite package ‘dplyr’ in publications use:
+
+  Wickham H, François R, Henry L, Müller K, Vaughan D (2023). _dplyr: A Grammar of Data Manipulation_. R package version 1.1.4,
+  <https://CRAN.R-project.org/package=dplyr>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {dplyr: A Grammar of Data Manipulation},
+    author = {Hadley Wickham and Romain François and Lionel Henry and Kirill Müller and Davis Vaughan},
+    year = {2023},
+    note = {R package version 1.1.4},
+    url = {https://CRAN.R-project.org/package=dplyr},
+  }
+> citation("futile.logger")
+To cite package ‘futile.logger’ in publications use:
+
+  Rowe BLY (2016). _futile.logger: A Logging Utility for R_. R package version 1.4.3, <https://CRAN.R-project.org/package=futile.logger>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {futile.logger: A Logging Utility for R},
+    author = {Brian Lee Yung Rowe},
+    year = {2016},
+    note = {R package version 1.4.3},
+    url = {https://CRAN.R-project.org/package=futile.logger},
+  }
+
+ATTENTION: This citation information has been auto-generated from the package DESCRIPTION file and may need manual editing, see ‘help("citation")’.
+> 
+> # cite R
+> citation()
+To cite R in publications use:
+
+  R Core Team (2023). _R: A Language and Environment for Statistical Computing_. R Foundation for Statistical Computing, Vienna, Austria.
+  <https://www.R-project.org/>.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {R: A Language and Environment for Statistical Computing},
+    author = {{R Core Team}},
+    organization = {R Foundation for Statistical Computing},
+    address = {Vienna, Austria},
+    year = {2023},
+    url = {https://www.R-project.org/},
+  }
+
+We have invested a lot of time and effort in creating R, please cite it when using it for data analysis. See also ‘citation("pkgname")’ for citing R packages.
+> # Cite RStudio
+> RStudio.Version()
+$citation
+To cite RStudio in publications use:
+
+  Posit team (2023). RStudio: Integrated Development Environment for R. Posit Software, PBC, Boston, MA. URL http://www.posit.co/.
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {RStudio: Integrated Development Environment for R},
+    author = {{Posit team}},
+    organization = {Posit Software, PBC},
+    address = {Boston, MA},
+    year = {2023},
+    url = {http://www.posit.co/},
+  }
+
+$mode
+[1] "desktop"
+
+$version
+[1] ‘2023.12.0.369’
+
+$long_version
+[1] "2023.12.0+369"
+
+$release_name
+[1] "Ocean Storm"
