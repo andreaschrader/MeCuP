@@ -12,3 +12,62 @@ version: 0.2.3
 license: CC-BY-4.0
 date-released: 2025-05-23
 url: "https://github.com/andreaschrader/MeCuP"
+references:
+  - authors:
+      - family-names: Weil  
+        given-names: Heinrich Lukas  
+      - family-names: Schneider    
+        given-names: Kevin  
+      - family-names: Tschöpe  
+        given-names: Marcel  
+      - family-names: Bauer  
+        given-names: Jonathan  
+      - family-names: Maus  
+        given-names: Oliver  
+      - family-names: Frey  
+        given-names: Kevin  
+      - family-names: Brilhaus  
+        given-names: Dominik  
+      - family-names: Martins Rodrigues  
+        given-names: Cristina  
+      - family-names: Doniparthi  
+        given-names: Gajendra  
+      - family-names: Wetzels  
+        given-names: Florian  
+      - family-names: Lukasczyk  
+        given-names: Jonas  
+      - family-names: Kranz  
+        given-names: Angela  
+      - family-names: Grüning  
+        given-names: Björn  
+      - family-names: Zimmer  
+        given-names: David  
+      - family-names: Deßloch  
+        given-names: Stefan  
+      - family-names: von Suchodoletz  
+        given-names: Dirk  
+      - family-names: Usadel  
+        given-names: Björn  
+      - family-names: Garth  
+        given-names: Christoph  
+      - family-names: Mühlhaus  
+        given-names: Timo   
+    date-published: "2023-10-11"
+    doi: https://doi.org/10.1111/tpj.16474  
+    end: 988  
+    issue: 4  
+    journal: The Plant Journal  
+    start: 974  
+    title: "PLANTdataHUB: a collaborative platform for continuous FAIR data sharing in plant research"
+    type: article
+    url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.16474"
+    volume: 116  
+  - authors:
+      - name: DataPLANT community  
+    doi: 10.5281/zenodo.8302662   
+    publisher: Zenodo   
+    title: "Annotated Research Context Specification, v1.1-rfc"
+    type: software
+    url: "https://doi.org/10.5281/zenodo.8302662"
+    version: v1.1-rfc   
+    year: 2023
